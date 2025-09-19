@@ -1,6 +1,6 @@
 # **Analysis of Overall Healthcare Worldwide**
 
-![Project Logo](https://www.e-ir.info/wp-content/uploads/fly-images/84328/Screenshot-2020-05-22-at-19.22.11-807x455-c.jpg)
+![Project Logo](https://upload.wikimedia.org/wikipedia/commons/4/45/Earth_oaicons.png)
 
 ## **Overview**
 
