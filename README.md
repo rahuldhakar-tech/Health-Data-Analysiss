@@ -7,7 +7,8 @@ Our research project aims to conduct a comprehensive analysis of global health d
 > **Research Question:**  
 > Based on comprehensive analysis of general health data, which areas of the world are in greatest need of assistance or aid from the World Health Organization (WHO) and other organizations, and which countries demonstrate exemplary health outcomes and practices that can serve as valuable lessons for global health improvement efforts?
 
-The slide deck of our presentation can be found as a PDF, titled: [Presentation - Analysis of Overall Healthcare Worldwide.PDF](https://docs.google.com/presentation/d/1ocTOHkDrqGDJFO85Cjwz38St5kXDhVix88cvsFs2HfM/edit#slide=id.g252acccf8a5_0_18).
+The slide deck of our presentation can be found as a PDF, titled: [Presentation - Analysis of Overall Healthcare Worldwide.PDF](https://github.com/rahuldhakar-tech/Health-Data-Analysiss/blob/main/Presentation%20-%20%20Healthcare.pdf).
+
 
 ---
 
