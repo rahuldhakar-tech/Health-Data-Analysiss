@@ -1,7 +1,5 @@
 # **Analysis of Overall Healthcare Worldwide**
 
-![Project Logo](https://upload.wikimedia.org/wikipedia/commons/4/45/Earth_oaicons.png)
-
 ## **Overview**
 
 Our research project aims to conduct a comprehensive analysis of global health data to identify areas in greatest need of assistance or aid from organizations like the World Health Organization (WHO). Additionally, we seek to identify countries that demonstrate exemplary health outcomes and practices, serving as valuable lessons for global health improvement efforts. By analyzing various datasets and employing statistical methods, we will investigate key factors such as medical personnel prevalence, GDP per capita, and mortality rates. Through this research, we aim to contribute to the understanding of global health disparities and provide insights to support evidence-based decision-making in healthcare planning and resource allocation.
