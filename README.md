@@ -32,7 +32,7 @@ The data sets included the following information:
 
 ### **Data Cleaning**
 
-Data cleaning can primarily be found in Jupyter's notebook **`analysis.ipynb`**. The data cleaning process included the following steps:
+Data cleaning can primarily be found in Jupyter's notebook **`GDP_vs_life_expectancy.ipynb`**. The data cleaning process included the following steps:
 
 - **Years:** 2015 to 2019.  
 - Countries that did not have **Life Expectancy** for all analyzed years were excluded from the analysis.  
